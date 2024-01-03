@@ -1,3 +1,3 @@
 C4:71:54	Nokia Shanghai Bell Co., Ltd.
-30:FF-F6	Extreme Networks Headquarters
+30:FF:F6	Extreme Networks Headquarters
 B4:6B:FC	Extreme Networks Headquarters
