@@ -1,3 +1,3 @@
-28:6F:B9   (hex)		Nokia Shanghai Bell Co., Ltd.
-08:EA:44   (hex)		Extreme Networks Headquarters
-F4:EA:B5   (hex)		Extreme Networks Headquarters
+28:6F:B9  Nokia Shanghai Bell Co., Ltd.
+08:EA:44  Extreme Networks Headquarters
+F4:EA:B5  Extreme Networks Headquarters
