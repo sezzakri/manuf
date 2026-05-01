@@ -4,20 +4,20 @@
     "geo_distance": null,
     "name": ". القارئ محمد أيوب ",
     "iso_3166_2": null,
-    "lastchangetime_iso8601": "2025-08-08T16:09:20Z",
+   
     "changeuuid": "bf62a3f1-7e0c-4671-913b-de1120d4ab8f",
     "has_extended_info": false,
     "geo_long": null,
-    "clicktimestamp": "2025-10-29 22:54:11",
+    
     "tags": "classical",
-    "lastcheckoktime": "2025-10-29 06:50:39",
+   
     "codec": "MP3",
     "bitrate": 128,
     "url_resolved": "https://qurango.net/radio/mohammed_ayyub",
     "clicktrend": -9,
-    "lastlocalchecktime_iso8601": "2025-10-28T22:26:06Z",
+    
     "country": "Morocco",
-    "lastchangetime": "2025-08-08 16:09:20",
+    
     "votes": 692,
     "lastcheckok": 1,
     "serveruuid": "9200b50b-a54f-44d9-8254-82ebcd52de1e",
@@ -27,16 +27,14 @@
     "countrycode": "MA",
     "language": null,
     "languagecodes": null,
-    "lastchecktime": "2025-10-29 06:50:39",
-    "clicktimestamp_iso8601": "2025-10-29T22:54:11Z",
+  
     "geo_lat": null,
     "hls": 0,
-    "lastcheckoktime_iso8601": "2025-10-29T06:50:39Z",
+   
     "stationuuid": "566d6bd3-b87a-4ead-bdb0-732e6eb9d62a",
     "url": "https://qurango.net/radio/mohammed_ayyub",
     "state": null,
     "homepage": null,
-    "lastchecktime_iso8601": "2025-10-29T06:50:39Z",
-    "lastlocalchecktime": "2025-10-28 22:26:06"
+    
 }
 ]
