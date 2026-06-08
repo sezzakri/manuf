@@ -9,8 +9,8 @@ https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sezzakri/logos/main/channels/bein.png" group-title="beIN SPORTS (1080P)",beIN SPORTS 3
 https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8?token=EQ63_eI-tnyyUS1GjA6pgDmjO_Ct6ApAJYTbowWYUmk&expires=1780950483&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sezzakri/logos/main/channels/ssc.png" group-title="beIN SPORTS (720P)",beIN SPORTS 1
-https://cph-p2p-msl.akamaized.net/hls/live/200034/test/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.fetchtv.com.au/marketing/img/packages/special-interest/bein-sports/bein-sports-1.webp" group-title="beIN SPORTS (720P)",beIN SPORTS 1
+http://het127b.ycn-redirect.com/live/918454578001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sezzakri/logos/main/channels/ssc.png" group-title="beIN SPORTS (720P)",beIN SPORTS 2
 https://cph-p2p-msl.akamaized.net/hls/live/200034/test/master.m3u8
