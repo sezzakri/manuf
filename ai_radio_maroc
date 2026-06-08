@@ -1,0 +1,83 @@
+[
+  {
+    "id": "medi_1",
+    "name": "Medi 1",
+    "frequency": "99.0 FM",
+    "streamUrl": "https://medi1.ice.infomaniak.ch/medi1-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1549834185-bd9f078a5dfe?w=200&q=80",
+    "category": "GENERALISTE",
+    "description": "La radio de la Méditerranée - Actualités, informations internationales et musique variée."
+  },
+  {
+    "id": "hit_radio",
+    "name": "Hit Radio",
+    "frequency": "100.0 FM",
+    "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=200&q=80",
+    "category": "MUSIQUE",
+    "description": "100% Hits: Hits pop, rock, rap et musiques urbaines pour les jeunes du Maroc."
+  },
+  {
+    "id": "radio_mars",
+    "name": "Radio Mars",
+    "frequency": "91.2 FM",
+    "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+    "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mL-hHYydnpm7wiSuGxxr_idXbqD0E7bAGzIc1w4XAS2N8=s900-c-k-c0x00ffffff-no-rj",
+    "category": "SPORT",
+    "description": "La radio marocaine du sport par excellence. Interviews, analyses et matchs en direct."
+  },
+  {
+    "id": "aswat",
+    "name": "Aswat",
+    "frequency": "104.3 FM",
+    "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=200&q=80",
+    "category": "INFOS",
+    "description": "La radio citoyenne de débat, d'entraide morale, juridique, éducative et musicale."
+  },
+  {
+    "id": "radio_2m",
+    "name": "Radio 2M",
+    "frequency": "93.1 FM",
+    "streamUrl": "https://2m.ice.infomaniak.ch/2m-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1484755560695-a4c7402a50e5?w=200&q=80",
+    "category": "GENERALISTE",
+    "description": "Chaîne de radio publique marocaine. Du bon son, des news fiables et de la bonne humeur."
+  },
+  {
+    "id": "snrt_al_wataniya",
+    "name": "SNRT Al Wataniya",
+    "frequency": "88.7 FM",
+    "streamUrl": "https://snrt-live-1.ice.infomaniak.ch/snrt-live-1-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1487180142328-054b783fc471?w=200&q=80",
+    "category": "INFOS",
+    "description": "Radio nationale marocaine de la SNRT, diffusion de programmes culturels, d'actualités et émissions de société."
+  },
+  {
+    "id": "snrt_inter",
+    "name": "SNRT Chaîne Inter",
+    "frequency": "91.5 FM",
+    "streamUrl": "https://snrt-live-2.ice.infomaniak.ch/snrt-live-2-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=200&q=80",
+    "category": "MUSIQUE",
+    "description": "La station internationale de la SNRT - Des hits rétro, modernes et une ouverture sur le monde."
+  },
+  {
+    "id": "swat_classic",
+    "name": "Chada FM",
+    "frequency": "98.5 FM",
+    "streamUrl": "https://chadafm.ice.infomaniak.ch/chadafm-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=200&q=80",
+    "category": "MUSIQUE",
+    "description": "Grande radio de chansons marocaines, orientales et émissions de conseils."
+  },
+  {
+    "id": "snrt_quran",
+    "name": "SNRT Mohammed VI du Saint Coran",
+    "frequency": "94.2 FM",
+    "streamUrl": "https://snrt-live-4.ice.infomaniak.ch/snrt-live-4-128.mp3",
+    "imageUrl": "https://images.unsplash.com/photo-1597935258735-e254c1839512?w=200&q=80",
+    "category": "GENERALISTE",
+    "description": "Emission continue de récitations du Noble Coran, prêches édifiants et guidance spirituelle."
+  }
+]
